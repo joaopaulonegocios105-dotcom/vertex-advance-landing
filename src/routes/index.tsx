@@ -1,5 +1,5 @@
 import { createFileRoute } from "@tanstack/react-router";
-import type { FormEvent } from "react";
+import type { CSSProperties, FormEvent } from "react";
 import heroAsset from "../assets/vertex-getulio-hero.png.asset.json";
 import logoAsset from "../assets/vertex-getulio-logo.png.asset.json";
 
@@ -44,7 +44,7 @@ function Index() {
 
       <section
         className="hero"
-        style={{ "--hero-image": `url(${heroAsset.url})` } as React.CSSProperties}
+        style={{ "--hero-image": `url(${heroAsset.url})` } as CSSProperties}
       >
         <div className="hero-content">
           <h1>A inteligência de investir, o privilégio de morar a 170m da Getúlio Vargas.</h1>
