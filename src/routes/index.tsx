@@ -49,7 +49,7 @@ function Index() {
         <div className="hero-content">
           <h1>A inteligência de investir, o privilégio de morar a 170m da Getúlio Vargas.</h1>
           <p>
-            Antecipe-se ao pré-lançamento. Empreendimento já avaliado pela Caixa em R$ 255.000, com unidades disponíveis por valor inferior na abertura de vendas. Entrada facilitada com parcelamento no boleto. Envie sua documentação e garanta prioridade.
+            Antecipe-se ao pré-lançamento. Empreendimento já avaliado pela Caixa em R$ 255.000, com unidades disponíveis por valor inferior na abertura de vendas. Envie sua documentação e garanta prioridade.
           </p>
           <div className="unit">
             <div className="unit-num">2/4</div>
@@ -75,7 +75,7 @@ function Index() {
 
       <section className="location" aria-label="Localização">
         <svg viewBox="0 0 24 24" fill="none" strokeWidth="1.6" aria-hidden="true"><path d="M12 21s7-6.5 7-12a7 7 0 10-14 0c0 5.5 7 12 7 12z" /><circle cx="12" cy="9" r="2.5" /></svg>
-        <div className="location-text"><strong>170 metros</strong>da Av. Getúlio Vargas</div>
+        <div className="location-text"><strong>Rua lateral do Colégio Gregor Mendel</strong>A apenas 170 metros da Av. Getúlio Vargas</div>
       </section>
 
       <section className="financing">
@@ -90,7 +90,7 @@ function Index() {
         </div>
         <div className="fin-row">
           <div className="fin-num">03</div>
-          <div className="fin-text">Entrada parcelada no boleto, direto com a construtora e sem burocracia.</div>
+          <div className="fin-text">Fluxos de pagamento da entrada facilitados, com parcelamento no boleto e cartão de crédito.</div>
         </div>
         <div className="fin-row">
           <div className="fin-num">04</div>
