@@ -1,6 +1,6 @@
 import { createFileRoute } from "@tanstack/react-router";
 import type { CSSProperties, FormEvent } from "react";
-import heroAsset from "../assets/vertex-getulio-hero.png.asset.json";
+import heroAsset from "../assets/vertex-getulio-hero-sunset.png.asset.json";
 import logoAsset from "../assets/vertex-getulio-logo.png.asset.json";
 
 export const Route = createFileRoute("/")({
@@ -94,7 +94,7 @@ function Index() {
         </div>
         <div className="fin-row">
           <div className="fin-num">04</div>
-          <div className="fin-text"><strong>Tabela exclusiva para investidores</strong> que fecham o plano de pagamento direto com a construtora.</div>
+          <div className="fin-text"><strong>Plano VIP para investidores</strong> — Esqueça o engessamento. Negocie fluxos e condições moldadas para o seu fluxo de caixa, direto com a construtora.</div>
         </div>
       </section>
 
